@@ -15,7 +15,7 @@
 
 ![preview01](https://github.com/Maria-Padilha/dashboard/assets/109801423/a1c3b40c-2155-4d0d-8699-d771692d341c) 
 
-![preview02](https://github.com/Maria-Padilha/dashboard/assets/109801423/d0914778-9b2a-46d6-ba66-e7c3d04e4200)
+![preview02](https://github.com/Maria-Padilha/dashboard/assets/109801423/c0ae3890-01e8-4e5e-9c4c-984dbd16950d)
 
 
 💻
